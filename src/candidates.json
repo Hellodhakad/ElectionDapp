@@ -1,0 +1,12 @@
+[
+  {
+    "id": 0,
+    "name": "Narendra Modi",
+    "picture": "images/modi.jpg"
+  },
+  {
+    "id": 1,
+    "name": "Rahul Gandhi",
+    "picture": "images/rahul.jpg"
+  }
+]
